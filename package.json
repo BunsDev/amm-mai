@@ -1,14 +1,13 @@
 {
-  "name": "@satori/mai3.js",
+  "name": "amm-mai",
   "version": "0.7.0",
   "description": "Mai Protocol v3 JavaScript API",
   "homepage": "http://github.com/Satori-finance/amm.mai3.js",
-  "author": "Zhu Tianchi <zhutianchi@mcarlo.com>",
+  "author": "Zhu Tianchi <zhutianchi@mcarlo.com>, Buns Enchantreee <bunsthedev@gmail.com>",
   "contributors": [],
   "keywords": [
     "mai",
-    "protocol",
-    "satori"
+    "protocol"
   ],
   "main": "./dist/index.js",
   "jsnext:main": "./dist/index.js",
@@ -18,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Satori-finance/amm.mai3.js"
+    "url": "https://github.com/BunsDev/amm-mai"
   },
   "bugs": {
-    "url": "https://github.com/Satori-finance/amm.mai3.js/issues"
+    "url": "https://github.com/BunsDev/amm-mai/issues"
   },
   "license": "MIT",
   "devDependencies": {
